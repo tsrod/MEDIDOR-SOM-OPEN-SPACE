@@ -1,0 +1,1 @@
+[{"id":"bb3c1cd8.c77d6","type":"change","z":"9c0f0d4b.834c5","name":"","rules":[{"t":"set","p":"complete","pt":"msg","to":"true","tot":"bool"}],"action":"","property":"","from":"","to":"","reg":false,"x":298.5,"y":662,"wires":[["8a8380b3.ba657","6e45cfa1.9fb78"]]}]
